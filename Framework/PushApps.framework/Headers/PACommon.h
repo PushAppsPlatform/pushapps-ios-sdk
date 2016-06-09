@@ -16,6 +16,5 @@
 
 typedef void (^registerDeviceCompletion)(NSError *error);
 typedef void (^setTokenCompletion)(NSError *error);
-typedef void (^getWidgetFeedCompletion)(NSArray *articles, NSError *error);
 
 #endif /* PACommon_h */

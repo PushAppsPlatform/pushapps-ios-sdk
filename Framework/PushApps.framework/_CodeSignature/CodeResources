@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/PACommon.h</key>
 		<data>
-		8dqWNUnj0nqa9XNnhWRLL0bxQXE=
+		99pxTv1awaaiybOvFI717eZoSw0=
 		</data>
 		<key>Headers/PAErrorCodes.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Headers/PushApps.h</key>
 		<data>
-		caiQGEZdQI9qUyc9S9sW/K2TKZ8=
+		AzEl1Hlnh5W3hDQwTX3F2sS38tY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		g18f3R2R0bSU/DPL8SkhZeUdJrs=
+		7tNRuZvUs1m72lFvi+ifiUG/Jyc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>PrivateHeaders/PAApiClient.h</key>
 		<data>
-		V8e7KBnt9SMKkcyBN2fLCMdvrtE=
+		5iLIaZQD+nXL7hhf+SNDitOsafU=
 		</data>
 		<key>PrivateHeaders/PABaseHttpRequest.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>PrivateHeaders/PAConst.h</key>
 		<data>
-		7xlhCygBbRCIreDckduV4DTbr6k=
+		H/CtMx4yzv3w4NtrbP3aEwjfElw=
 		</data>
 		<key>PrivateHeaders/PAPopup.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>PrivateHeaders/PASDK.h</key>
 		<data>
-		kXLHkvLm7ScKJ8EgMoOubn+ihdo=
+		mPzs8hUQLLmPEhFdC0VOi9nubsA=
 		</data>
 		<key>PrivateHeaders/PAUtils.h</key>
 		<data>
@@ -56,126 +56,49 @@
 	<key>files2</key>
 	<dict>
 		<key>Headers/PACommon.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8dqWNUnj0nqa9XNnhWRLL0bxQXE=
-			</data>
-			<key>hash2</key>
-			<data>
-			5O/2jSMtxK1g5UMdrGafUswOCvOHIZ88lIxFkk2Evho=
-			</data>
-		</dict>
+		<data>
+		99pxTv1awaaiybOvFI717eZoSw0=
+		</data>
 		<key>Headers/PAErrorCodes.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GWRO3AOJCwlboXkMHgY0FH4PzyY=
-			</data>
-			<key>hash2</key>
-			<data>
-			wjrE4nqi8qQH/5KvO5H6MIhCyLm+/7+9eUjKrELiSkM=
-			</data>
-		</dict>
+		<data>
+		GWRO3AOJCwlboXkMHgY0FH4PzyY=
+		</data>
 		<key>Headers/PushApps-umbrella.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jI5OxMsZZB/v9zMvVvBpkazGIMU=
-			</data>
-			<key>hash2</key>
-			<data>
-			jeMQk9bphCGtQE1A50/iMEv20vzP+rDJEGxvzx7wJeQ=
-			</data>
-		</dict>
+		<data>
+		jI5OxMsZZB/v9zMvVvBpkazGIMU=
+		</data>
 		<key>Headers/PushApps.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			caiQGEZdQI9qUyc9S9sW/K2TKZ8=
-			</data>
-			<key>hash2</key>
-			<data>
-			xxGTZy1dgu9AjU7rk1u4tsbEx00/a4Kl4oYYHWHYsLQ=
-			</data>
-		</dict>
+		<data>
+		AzEl1Hlnh5W3hDQwTX3F2sS38tY=
+		</data>
 		<key>Modules/module.modulemap</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			i2vNf+xhrPPuSWvTwN0V5GVmJPg=
-			</data>
-			<key>hash2</key>
-			<data>
-			dJC/BWa4X6ovS9/plLV/6ZpseWiA79564dIHVd7YjI8=
-			</data>
-		</dict>
+		<data>
+		i2vNf+xhrPPuSWvTwN0V5GVmJPg=
+		</data>
 		<key>PrivateHeaders/PAApiClient.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			V8e7KBnt9SMKkcyBN2fLCMdvrtE=
-			</data>
-			<key>hash2</key>
-			<data>
-			HNCuTUEZVycf2PTI3pTZtKe2s5PndJLWCWCWpBcPzyI=
-			</data>
-		</dict>
+		<data>
+		5iLIaZQD+nXL7hhf+SNDitOsafU=
+		</data>
 		<key>PrivateHeaders/PABaseHttpRequest.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			W2d2j0iO+jhR4tPwa9p7BP4uegA=
-			</data>
-			<key>hash2</key>
-			<data>
-			NOhxYpVNyjKq2D8706gWxOtxoKhOOUK2o8fDChNJTJo=
-			</data>
-		</dict>
+		<data>
+		W2d2j0iO+jhR4tPwa9p7BP4uegA=
+		</data>
 		<key>PrivateHeaders/PAConst.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7xlhCygBbRCIreDckduV4DTbr6k=
-			</data>
-			<key>hash2</key>
-			<data>
-			N1m/2a3UyXOlPwBxd9ZBk6MJCTG8K6e4pZLE4LWd9rY=
-			</data>
-		</dict>
+		<data>
+		H/CtMx4yzv3w4NtrbP3aEwjfElw=
+		</data>
 		<key>PrivateHeaders/PAPopup.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QoS6/m7272TLlkvQnAcOeHAVcYs=
-			</data>
-			<key>hash2</key>
-			<data>
-			/fiTM7XPyKNPs4W/kXURTY4KRYBePwhB6mJ6AxM6Igw=
-			</data>
-		</dict>
+		<data>
+		QoS6/m7272TLlkvQnAcOeHAVcYs=
+		</data>
 		<key>PrivateHeaders/PASDK.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kXLHkvLm7ScKJ8EgMoOubn+ihdo=
-			</data>
-			<key>hash2</key>
-			<data>
-			1tpHj+BO3z0+KCTh886SpFsEuWswhSzoePOoniUVt94=
-			</data>
-		</dict>
+		<data>
+		mPzs8hUQLLmPEhFdC0VOi9nubsA=
+		</data>
 		<key>PrivateHeaders/PAUtils.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TXUIZA4W6sXYj1zUmznnzrayh8M=
-			</data>
-			<key>hash2</key>
-			<data>
-			0/exiv9mw5c6Bqupyirr2oHSfqK0upzXLPBjV0pYPh8=
-			</data>
-		</dict>
+		<data>
+		TXUIZA4W6sXYj1zUmznnzrayh8M=
+		</data>
 	</dict>
 	<key>rules</key>
 	<dict>
