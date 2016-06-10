@@ -10,6 +10,8 @@
 #import <UIKit/UIKit.h>
 #import "PACommon.h"
 
+typedef void (^PASDKCompletionBlock)(id object, NSError *error);
+
 @interface PASDK : NSObject
 
 // check this flag to see if the Pushapps service is currently available
@@ -28,5 +30,9 @@
 
 // processes push notification
 +(void)handleNotification:(NSDictionary *)userInfo;
+
++(void)getWidgetFeedForParams:(NSDictionary *)params withCompletionBlock:(PASDKCompletionBlock)completionBlock;
+
++(void)sendTestNotification:(NSDictionary *)params;
 
 @end

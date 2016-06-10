@@ -18,6 +18,7 @@ FOUNDATION_EXPORT const unsigned char pushappsVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <pushapps/PublicHeader.h>
 
+typedef void (^PACompletionBlock)(id object, NSError *error);
 
 @interface PushApps : NSObject
 
@@ -37,5 +38,9 @@ FOUNDATION_EXPORT const unsigned char pushappsVersionString[];
 
 // processes push notification
 +(void)handleNotification:(NSDictionary *)userInfo;
+
++(void)getWidgetFeedForParams:(NSDictionary *)params withCompletionBlock:(PACompletionBlock)completion;
+
++(void)handleOpenUrl:(NSURL *)url;
 
 @end
