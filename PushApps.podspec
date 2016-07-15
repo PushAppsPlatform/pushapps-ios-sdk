@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://www.pushapps.mobi"
   s.license      = "MIT"
   s.author             = { "PushApps" => "support@pushapps.mobi" }
-  s.source       = { :git => "https://github.com/PushAppsPlatform/pushapps-ios-sdk.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/PushAppsPlatform/pushapps-ios-sdk.git", :tag => "1.0.2-1" }
   s.platforms    = { "ios" => "8.0" }
   s.requires_arc = true
   s.vendored_frameworks = "Framework/PushApps.framework"

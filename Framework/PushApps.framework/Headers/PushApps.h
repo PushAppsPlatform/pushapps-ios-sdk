@@ -22,7 +22,7 @@ typedef void (^getTagsCompletion)(NSArray *tags, NSError *error);
 @protocol PAPopupDelegate <NSObject>
 
 @required
-- (void)paPopupDismissed;
+- (void)paPopupDismissedWithArticleUrl:(NSString *)articleUrl;
 
 @end
 
@@ -58,5 +58,7 @@ typedef void (^getTagsCompletion)(NSArray *tags, NSError *error);
 + (void)removeTags:(NSArray *)tags;
 
 + (void)getTags:(PACompletionBlock)completion;
+
++ (NSString *)getUrlFromNotificationInfo:(NSDictionary *)userInfo;
 
 @end
