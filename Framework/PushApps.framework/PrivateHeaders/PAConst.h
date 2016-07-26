@@ -1,7 +1,7 @@
 #ifndef const_h
 #define const_h
 
-#define SDK_VERSION @"1.0.5"
+#define SDK_VERSION @"1.0.6"
 
 #define API_URL @"https://mobile-ws.pushapps.mobi/v1/%@"
 //#define API_URL @"http://dev.mobile-ws.pushapps.mobi/v1/%@"
